@@ -48,16 +48,7 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
-			
-			<plugin>
-				  <groupId>com.itemis.jenkins.plugins</groupId>
-    <artifactId>unleash</artifactId>
-    <version>2.4.0</version>
-			
-			</plugin>
-			
-			
-			
+
 		<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
